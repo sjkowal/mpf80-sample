@@ -10,8 +10,8 @@ metadata/_custom_type_script = "uid://dru3usokwlhd3"
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1063772051]
 layout_mode = 0
-offset_right = 1280.0
-offset_bottom = 1024.0
+offset_right = 1920.0
+offset_bottom = 1080.0
 color = Color(0.49019608, 0.105882354, 0.16078432, 1)
 
 [node name="Label" type="Label" parent="." unique_id=2071315036]
